@@ -10,9 +10,9 @@
 ### 🔥 About Me
 
 - 🔭 I’m currently working on improving my full-stack skills  
-- 🌱 Currently exploring: **TypeScript**, **React**, and **Java**  
+- 🌱 Currently exploring: **TypeScript**, **React**, **C++**, and **Java**  
 - ⚽ Hobbies: Coding 💻, Playing Football ⚽, and Watching Movies 🎬  
-- 📫 Reach me via: **nguyenkivy.dev@gmail.com** (nếu có), hoặc DM qua socials  
+- 📫 Reach me via: **nguyenkyvy112az@gmail.com**
 - 💡 Fun fact: _"I debug best after midnight."_ 🌙
 
 ---
