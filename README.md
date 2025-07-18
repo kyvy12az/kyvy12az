@@ -1,4 +1,4 @@
-![Banner](./assets/images/header.png)
+![Banner](./assets/images/header-2.png)
 <h1 align="center">Hi 👋, I'm Nguyễn Kỳ Vỹ</h1>
 <h3 align="center">aka kyvy12az • A passionate Dev from Vietnam 🇻🇳</h3>
 
