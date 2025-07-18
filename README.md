@@ -1,11 +1,10 @@
+![Banner](./assets/images/header.png)
 <h1 align="center">Hi 👋, I'm Nguyễn Kỳ Vỹ</h1>
 <h3 align="center">aka kyvy12az • A passionate Dev from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kyvy12az&label=Profile%20views&color=blue&style=flat-square" alt="kyvy12az" />
 </p>
-
-![Banner](./assets/images/header.png)
 
 
 ---
